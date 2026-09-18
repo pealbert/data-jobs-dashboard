@@ -1,18 +1,13 @@
 # Data Jobs Dashboard w/ Power BI
 
-<a href="https://lukeb.co/powerbi-project1" target="_blank">
-  <img src="../Resources/images/Project1_Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
-</a>
-
-> <a href="https://lukeb.co/powerbi-project1" target="_blank">📊 View interactive dashboard here on the Power BI Service</a>
-
+<img src="./Resources/Dashboard_Overview.gif" alt="Data Jobs Dashboard GIF">
 
 ## Introduction
 
 This dashboard was created for **Job Seekers, Job Transitioners, and Job Swappers** to solve a common problem: information about the data job market is scattered and hard to grasp. Using a real-world dataset of 2024 data science job postings (including titles, salaries, and locations), this project provides a single, easy-to-use interface to explore market trends and compensation.
 
 ### Dashboard File
-You can find the file for the dashboard here: [`Data_Jobs_Dashboard.pbix`](Data_Jobs_Dashboard.pbix).  
+You can find the file for the dashboard here: [`data_jobs_dashboard.pbix`](data_jobs_dashboard.pbix).  
 
 ## Skills Showcased
 
@@ -36,13 +31,13 @@ This project was a journey through key Power BI features. Here's a look at what 
 
 ### Page 1: High-Level Market View
 
-![Data Jobs Dashboard Page 1](../Resources/images/Project1_Dashboard_Page1.gif)  
+![Data Jobs Dashboard Page 1](./Resources/Dashboard_Page1.gif)  
 
 This is your mission control for the data job market. It showcases key KPIs like total job count, median salaries, and top job titles to give you a quick understanding of what's happening in the job market at a glance.
 
 ### Page 2: Job Title Drill Through
 
-![Data Jobs Dashboard Page 2](../Resources/images/Project1_Dashboard_Page2.gif)  
+![Data Jobs Dashboard Page 2](./Resources/Dashboard_Page2.gif)  
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
 
